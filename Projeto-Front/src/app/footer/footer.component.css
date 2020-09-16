@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+
+.colorfooter {
+    background-color: #803632;
+    
+}
+
+.fonte {
+    font-family: 'Nunito';
+    color: white;
+}
+
+footer{
+    max-width: 100%;
+    overflow: hidden;
+    bottom:0;
+    width:100%; 
+    
+}

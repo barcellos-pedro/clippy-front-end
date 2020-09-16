@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+.fonte{
+    font-family: 'Nunito';
+}
+
+.btn-chernobyl {
+    border: 1px solid white;
+    background-color: #FF6D67;
+    color: black;
+  
+    cursor: pointer;
+  }
+  
+  .success {
+    border-color: #FF6D67;
+    color: white;
+  }
+  
+  .success:hover {
+    background-color: white;
+    color: #FF6D67;
+  }
+  
+  
+  .form-border{
+    border-color: #FF6D67;
+  }

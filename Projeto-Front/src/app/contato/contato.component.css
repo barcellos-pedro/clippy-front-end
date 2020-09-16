@@ -1,0 +1,33 @@
+h1{
+    color: #E6615A;
+}
+
+.texto-apoio{
+    color: #7f7f7f;
+}
+.btn {
+    border: 1px solid white;
+    background-color: #FF6D67;
+    color: black;
+  
+    cursor: pointer;
+  }
+  
+  .success {
+    border-color: #FF6D67;
+    color: white;
+  }
+  
+  .success:hover {
+    background-color: white;
+    color: #FF6D67;
+  }
+  
+  
+  .form-border{
+    border-color: #FF6D67;
+  }
+  
+  .espacamento{
+    margin-top: 230px;
+  }

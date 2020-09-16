@@ -1,0 +1,17 @@
+.btn {
+    border: 1px solid white;
+    background-color: #FF6D67;
+    color: black;
+  
+    cursor: pointer;
+  }
+  
+  .success {
+    border-color: #FF6D67;
+    color: white;
+  }
+  
+  .success:hover {
+    background-color: white;
+    color: #FF6D67;
+  }
